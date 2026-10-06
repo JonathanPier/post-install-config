@@ -80,21 +80,23 @@ Configuring users, or customers, in osTicket is an important part of creating a 
 <h2>Configure SLA</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="643" height="342" alt="image" src="https://github.com/user-attachments/assets/b9d0d63f-0485-4e9a-9efb-d56a047a40a0" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Configuring an SLA (Service Level Agreement) in osTicket is important because it establishes clear expectations about how quickly support tickets should be responded to and resolved. In a help-desk environment, not every support request has the same level of importance. A minor request, such as asking for help installing a printer, does not necessarily require the same response time as a critical problem, such as a company-wide network outage. SLA configuration allows an organization to define different levels of service and establish time limits for responding to and resolving support requests.
+
+An SLA provides a structured way of managing support performance. Instead of allowing tickets to remain open indefinitely, the organization can establish deadlines and priorities. This helps support staff understand which tickets require immediate attention and which tickets can be handled later.</p>
 <br />
 
 
 <h2>Configure Help Topics</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="640" height="442" alt="image" src="https://github.com/user-attachments/assets/1063a5b1-0c82-42c4-ab3b-4f9241b48730" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Configuring Help Topics in osTicket is important because Help Topics provide a structured way to identify and categorize the reason a customer is contacting the help desk. When a customer submits a ticket, the support team needs to understand what type of problem or request the customer has. Help Topics make this process easier by providing predefined categories such as Password Reset, Network Problem, Hardware Issue, Software Support, Email Problem, and Account Request.
+
+Without properly configured Help Topics, tickets may arrive at the help desk with little organization. Agents may have to read every ticket manually to determine what type of problem it represents, which can slow down ticket assignment, prioritization, and resolution. Help Topics help turn a large collection of support requests into an organized system.</p>
 <br />
 
