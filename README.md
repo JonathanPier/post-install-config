@@ -60,11 +60,10 @@ Configuring teams in osTicket is important because teams allow an organization t
 <h2>Configure Agents (workers)</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="661" height="255" alt="image" src="https://github.com/user-attachments/assets/ec40a298-988e-45b6-8de4-bd09eb2704e6" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Configuring agents, sometimes referred to as workers or staff members, is one of the most important steps when setting up and managing an osTicket help-desk system. An agent is a staff member who uses osTicket to perform support-related tasks, such as viewing tickets, responding to customers, assigning tickets, updating ticket information, and resolving technical problems. While customers submit support requests through the ticket system, agents are the employees who investigate those requests and provide solutions</p>
 <br />
 
 
