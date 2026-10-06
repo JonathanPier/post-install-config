@@ -70,11 +70,10 @@ Configuring agents, sometimes referred to as workers or staff members, is one of
 <h2>Configure Users (customers)</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="606" height="287" alt="image" src="https://github.com/user-attachments/assets/36a28b45-177c-4940-a83b-615707f67d31" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Configuring users, or customers, in osTicket is an important part of creating a functional help-desk system. While agents are the employees who provide technical support, users are the people who request that support. A user can be an employee, customer, student, client, or any other person who needs assistance from the organization. Configuring users allows osTicket to identify who is requesting help, associate their support requests with the correct person, maintain a history of their tickets, and provide a reliable method of communication between the customer and the support staff</p>
 <br />
 
 
