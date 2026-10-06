@@ -20,7 +20,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Configure Role (for grouoing permission)
+- Configure Role (for grouping permission)
 - Configure Departments (Ticket visibility, help desk vs Sysadmins, vs Networking)
 - Configure Teams
 - Configure Agents (workers)
