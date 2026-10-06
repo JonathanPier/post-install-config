@@ -34,8 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="600" height="481" alt="image" src="https://github.com/user-attachments/assets/6fab404a-a859-4546-997f-ac74d079c6d4" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+In osTicket, configuring roles and grouping permissions is an important part of managing security and controlling what staff members are allowed to do within the help-desk system. A role can be understood as a collection or group of permissions that determines what a particular type of staff member can access and what actions that person can perform. Instead of giving every staff member complete access to the entire osTicket system, an administrator can create appropriate roles and assign permissions based on each employee's responsibilities. This makes the system more organized, secure, and easier to manage.</p>
 <br />
 
 <h2>Configure Departments (Ticket visibility, help desk vs Sysadmins, vs Networking)</h2>
